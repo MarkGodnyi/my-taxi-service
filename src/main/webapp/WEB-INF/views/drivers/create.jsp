@@ -37,9 +37,9 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <th>
       <a href="${pageContext.request.contextPath}/drivers/login">Login</a>
-    </td>
+    </th>
   </tr>
 </table>
 </body>

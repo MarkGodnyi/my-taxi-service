@@ -28,9 +28,9 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <th>
       <a href="${pageContext.request.contextPath}/drivers/create">Register</a>
-    </td>
+    </th>
   </tr>
 </table>
 </body>

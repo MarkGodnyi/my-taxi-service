@@ -28,6 +28,7 @@
             <input type="submit" name="add" form="manufacturer" required>
         </td>
     </tr>
+    <tr><th><a href="${pageContext.request.contextPath}/">Go to main page</a></th></tr>
 </table>
 </body>
 </html>
